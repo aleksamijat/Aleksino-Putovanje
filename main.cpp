@@ -1,6 +1,6 @@
 #include <iostream>
 #include "lista.hpp"
-#include "dinstring.cpp"
+#include "dinString.cpp"
 #include "karta.hpp"
 #include "dinKarta.hpp"
 #include "putovanje.hpp"
