@@ -1,4 +1,4 @@
-#include "dinstring.hpp"
+#include "dinsString.hpp"
 
 DinString::DinString() {
     len = 0;
